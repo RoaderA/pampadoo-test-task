@@ -1,8 +1,6 @@
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
-import sys
-from utils import close_browser
 from utils import generate_vehicle_number
 from utils import generate_region_code
 
